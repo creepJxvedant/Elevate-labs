@@ -40,12 +40,6 @@ This project implements a **Java console-based calculator** capable of performin
 
 # Interview Questions
 
-This document contains commonly asked **Java interview questions** with answers, based on the calculator project.
-
----
-
-## Questions & Answers
-
 ### 1. What is method overloading?
 Method overloading is when multiple methods in the same class have the same name but different parameter lists (different number or type of arguments).
 
