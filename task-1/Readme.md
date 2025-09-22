@@ -1,4 +1,44 @@
-# Java Console Calculator – Interview Questions
+# Java Console Calculator – Task 1
+
+## Task Description
+This project implements a **Java console-based calculator** capable of performing basic arithmetic operations: **addition, subtraction, multiplication, and division**. It demonstrates the use of Java methods, loops, and console input/output.
+
+---
+
+## What Was Done
+- **Created methods** for each arithmetic operation (add, subtract, multiply, divide).  
+- **Used `Scanner`** to read user input from the console.  
+- **Implemented a loop** to allow continuous calculations until the user decides to exit.  
+- **Handled divide-by-zero** gracefully by displaying an appropriate error message.  
+- **Prepared interview questions** with answers covering fundamental Java concepts.
+
+---
+
+## Tools Used
+- **Java (JDK)** – for compiling and running the program.  
+- **VS Code or IntelliJ CE** – for development and code editing.  
+- **Terminal / Command Prompt** – for executing the program.
+
+---
+
+## How to Run
+1. Compile the program:
+   ```bash
+   javac Calculator.java
+2. Run the program:
+   ```bash
+   java Calculator
+
+---
+
+
+
+
+
+---
+---
+
+# Interview Questions
 
 This document contains commonly asked **Java interview questions** with answers, based on the calculator project.
 
