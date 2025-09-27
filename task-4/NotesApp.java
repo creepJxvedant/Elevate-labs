@@ -18,7 +18,7 @@ public class NotesApp {
             sc.nextLine();
 
             switch (choice) {
-                case 1:W
+                case 1:
                     addNote(sc);
                     break;
                 case 2:
