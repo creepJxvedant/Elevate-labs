@@ -14,7 +14,7 @@ Develop a CLI-based mini system in Java to manage **books** and **users**, with 
 `
 ---
 
-## 📂 Deliverables
+## Deliverables
 A **multi-class Java project** implementing:
 - `Book` class → Holds details such as ID, title, author, availability.
 - `User` class → Represents library members with user ID and name..
@@ -22,7 +22,7 @@ A **multi-class Java project** implementing:
 
 ---
 
-## 📝 Features
+## Features
 1. **Add Books & Users** – Store book and user records.
 2. **View Books & Users** – Display available books and registered users.
 3. **Issue Book** – A user can borrow a book (availability updated).
@@ -31,7 +31,7 @@ A **multi-class Java project** implementing:
 
 ---
 
-## 🎯 Outcome
+## Outcome
 - Hands-on practice with **Object-Oriented Programming** (Encapsulation, Classes, Objects).
 - Exposure to **real-world system design** like a library.
 - Improved understanding of **data handling** with collections.
